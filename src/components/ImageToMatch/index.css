@@ -1,0 +1,11 @@
+.match-image-container {
+  display: flex;
+  justify-content: center;
+  margin: 30px 0;
+}
+
+.match-image {
+  width: 260px;
+  height: auto;
+  border-radius: 8px;
+}
